@@ -1,6 +1,6 @@
 ### Hi, I'm Aditya (Adi) Jain
 
-Founding Platform Engineer at [Seal](https://seal.run) (YC S20), building Neil, an autonomous AI agent for pharmaceutical scientists. MEng with Distinction, University of Cambridge.
+Founding Engineer at [Seal](https://seal.run) (YC S20), building Neil, an autonomous AI agent for pharmaceutical scientists. MEng with Distinction, University of Cambridge.
 
 I build machine learning systems for 3D computer vision and AI agents: recovering reliable 3D structure from ordinary cameras, and finding which errors in it matter for robots.
 
